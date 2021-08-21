@@ -3,7 +3,7 @@ export const projects = [
         title: "Pathfinding Visualizer",
         description:
             "Built a React / Redux application to visualize path-finding algorithms including Dijkstras and DFS. Includes a random maze generator created using recursive division. For Dijkstras, the user can add weights to selected paths.  ",
-        image: "/images/pathfinding_visualizer.png",
+        image: "/images/pathfinding_visualizer.PNG",
         tags: ["React"],
         visit: "https://github.com/boyishi/pathfinding_visualizer",
         source: "https://boyishi.github.io/pathfinding_visualizer/",
@@ -23,7 +23,7 @@ export const projects = [
         title: "Expense Tracker",
         description:
             "Keeps track of all deposits and expenses, displays the data through graphs. Has voice input features",
-        image: "/images/expense_tracker.PNG",
+        image: "/images/expense_tracker.png",
         tags: ["React", "Firebase"],
         source: "https://boyishi.github.io/expense_tracker_react/",
         visit: "https://github.com/boyishi/expense_tracker_react",
