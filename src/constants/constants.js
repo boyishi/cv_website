@@ -13,7 +13,7 @@ export const projects = [
         title: "Sorting Visualizer",
         description:
             "Built application to visualize sorting algorithms, including Merge Sort, Quick Sort, Heap Sort, Bubble Sort, and Insertion Sort",
-        image: "/images/sorting_visualizer.png",
+        image: "/images/sorting_visualizer.PNG",
         tags: ["HTML5", "JavaScript", "CSS3"],
         visit: "https://github.com/boyishi/sorting_visualizer",
         source: "https://boyishi.github.io/sorting_visualizer/",
@@ -23,7 +23,7 @@ export const projects = [
         title: "Expense Tracker",
         description:
             "Keeps track of all deposits and expenses, displays the data through graphs. Has voice input features",
-        image: "/images/expense_tracker.png",
+        image: "/images/expense_tracker.PNG",
         tags: ["React", "Firebase"],
         source: "https://boyishi.github.io/expense_tracker_react/",
         visit: "https://github.com/boyishi/expense_tracker_react",
